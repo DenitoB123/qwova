@@ -1,4 +1,4 @@
-# qwova
+# Qwova
 Qwova™ — Cloud-based Education Management System
 
 ![Qwova Logo](qwova-logo.png)
