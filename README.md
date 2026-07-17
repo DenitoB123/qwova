@@ -6,7 +6,7 @@ Qwova™ — Cloud-based Education Management System
 # Qwova™
 **Cloud‑based Education Management System**
 
-Qwova is an intelligent school ERP platform currently in development.  
+Qwova is an intelligent school ERP platform currently in development.   
 The name *Qwova* means "many systems woven together," from the English root *woven* -(wova).
 
 **First use in commerce:** 17 July 2026  
